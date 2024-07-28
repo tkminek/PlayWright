@@ -5,7 +5,7 @@ import os
 
 import pytest
 
-BASEDIR = "D:/PYTHON/PROJECTS/PlayWright"
+BASEDIR = os.path.dirname(__file__)
 
 
 def main() -> None:
