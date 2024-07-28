@@ -33,7 +33,7 @@ class SeznamEmail:
     def __init__(self):
         self._playwright: Playwright = sync_playwright().start()
         self._browser: Browser = self._playwright.firefox.launch(
-            headless=False, slow_mo=1000
+            headless=False, slow_mo=1
         )
         self._page: Page = self._browser.new_page()
 
