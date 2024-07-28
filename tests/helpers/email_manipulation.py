@@ -21,7 +21,7 @@ from playwright.sync_api import (
 class SeznamEmail:
     """
     Class containing all methods which can be used for manipulation with email,
-    like:   login
+    like :   login
             check_successful_login
             logout
             check_successful_logout
