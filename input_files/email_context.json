@@ -1,0 +1,6 @@
+{
+  "subject" : "Just test",
+  "message" : "Hi this is just for testing purposes.",
+  "attachment": "D:/PYTHON/PROJECTS/PlayWright/input_files/example_attachment.txt",
+  "receiver_email" : "test_case_1@seznam.cz"
+}
